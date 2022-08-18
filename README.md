@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LismonJackson
+- 👀 I’m interested in data science, games dev, machine learning and everything related to programming  
+- 🌱 I’m currently learning django python
+- 💞️ I’m looking to collaborate on web3 projects
+- 📫 Contact me via email: raafeyabdur0445@gmail.com
