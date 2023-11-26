@@ -6,7 +6,7 @@ I'm a Python and C++ developer with a passion for different fields of computer s
 
 - Learning the Django framework for web development.
 - Exploring web3 technologies for thirdweb projects.
-- Diving into particle simulation programming in C++.
+- Diving into particle life programming in C++.
 
 ## 💞️ I'm looking to collaborate on:
 
