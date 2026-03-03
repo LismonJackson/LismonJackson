@@ -18,7 +18,7 @@
 
 ```js
 const raafey = {
-    location: "Islamabad, Pakistan 🇵🇰",
+    location: "Pakistan 🇵🇰",
     role: "Full Stack Developer",
     experience: "3+ years",
     shipped: "50+ production apps",
